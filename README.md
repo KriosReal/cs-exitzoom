@@ -7,14 +7,14 @@ The script runs in the background and monitors mouse clicks using the pynput lib
 
 ## Installation
 Install the required dependency via terminal:
-pip install pynput
+```pip install pynput```
 
 Clone this repository:
-git clone https://github.com/KriosReal/cs-exitzoom.git
+```git clone https://github.com/KriosReal/cs-exitzoom.git```
 
 Navigate into project directory:
-cd cs-exitzoom
+```cd cs-exitzoom```
 
 Run the script from your terminal:
-Windows: python main.py
-Linux: python3 main.py
+Windows: ```python main.py```
+Linux: ```python3 main.py```
