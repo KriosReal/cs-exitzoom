@@ -2,10 +2,10 @@
 
 A simple Python macro to automatically reset the sniper rifle scope in CS2.
 
-## 🛠️ How It Works
+## How It Works
 The script runs in the background and monitors mouse clicks using the pynput library: After clicking on the RMB, script automatically exits from the scope by quick pressing 1 and 3 buttons.
 
-## 📦 Installation
+## Installation
 Install the required dependency via terminal:
 pip install pynput
 
